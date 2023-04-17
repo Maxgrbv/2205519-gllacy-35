@@ -997,6 +997,14 @@ body {
   margin-bottom: 32px;
 }
 
+.index-page-footer-container {
+  display: flex;
+  width: 1170px;
+  margin: 0 auto;
+  padding: 48px 0;
+}
+
+
 .page-footer-container {
   display: flex;
   width: 1170px;
